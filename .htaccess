@@ -1,0 +1,9 @@
+ErrorDocument 400 http://www.chess.gq/400.html
+ErrorDocument 401 http://www.chess.gq/401.html
+ErrorDocument 403 http://www.chess.gq/403.html
+ErrorDocument 404 http://www.chess.gq/404.html
+ErrorDocument 503 http://www.chess.gq/503.html
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [OR]
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
