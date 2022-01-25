@@ -1,10 +1,10 @@
 <?php
 session_start();
 // Change this to your connection info.
-$DATABASE_HOST = 'sql112.epizy.com';
-$DATABASE_USER = 'epiz_30631549';
-$DATABASE_PASS = 'deuQtFaH4jwHzCH';
-$DATABASE_NAME = 'epiz_30631549_chess';
+$DATABASE_HOST = 'XXXXXXX';
+$DATABASE_USER = 'XXXXXXX';
+$DATABASE_PASS = 'XXXXXXX';
+$DATABASE_NAME = 'XXXXXXX';
 // Try and connect using the info above.
 $con = mysqli_connect($DATABASE_HOST, $DATABASE_USER, $DATABASE_PASS, $DATABASE_NAME);
 if ( mysqli_connect_errno() ) {
