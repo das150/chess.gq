@@ -30,7 +30,18 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 ###
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home](https://user-images.githubusercontent.com/83658956/151048276-0a23a59c-2b8c-4f01-a8a5-2bbb8b9bb96d.png)
+
+![signup](https://user-images.githubusercontent.com/83658956/151048525-7806ba14-ed05-4246-936a-2fa5335701da.png)
+
+![profile](https://user-images.githubusercontent.com/83658956/151048696-1426aaf1-21f2-4bcf-9215-9e8df04a0071.png)
+
+![leaderboard](https://user-images.githubusercontent.com/83658956/151048845-f3bbde02-81ca-44d1-9ee6-6792c8e42aa9.png)
+
+![choose](https://user-images.githubusercontent.com/83658956/151049058-4130aa32-1ab2-42a0-8471-ca8cdb60a5e8.png)
+
+![play](https://user-images.githubusercontent.com/83658956/151049297-09f71251-db69-496c-9321-6966dbafd51f.png)
+
 
 ###
 
