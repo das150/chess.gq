@@ -1,0 +1,108 @@
+* {
+  	box-sizing: border-box;
+  	font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+  	font-size: 16px;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+}
+#otheroption:hover {background-color: #b3b3b3 !important; border-radius: 8px !important;}
+    body{
+      margin: 0;
+      color: #777;
+      background-color: #f7fafd;
+	    font: 400 1rem/1.75rem "Open Sans", sans-serif;
+      overflow-X: hidden;
+    }
+    .deco-white-circle-1 {
+		position: absolute;
+		top: 26rem;
+		left: -12rem;
+		display: block;
+		width: 22rem;
+		height: 22rem;
+	  }
+	  .deco-white-circle-2 {
+		position: absolute;
+		top: 19rem;
+		right: -12rem;
+		display: block;
+		width: 20rem;
+		height: 20rem;
+  	}
+  	.deco-blue-circle {
+		position: absolute;
+		top: 28rem;
+		left: 5rem;
+		display: block;
+		width: 5rem;
+		height: 5rem;
+  	}
+	  .deco-yellow-circle {
+		position: absolute;
+		top: 9rem;
+		right: 7rem;
+		display: block;
+		width: 1.5rem;
+		height: 1.5rem;
+	  }
+	  .deco-green-diamond {
+		position: absolute;
+		top: 9rem;
+		left: 4rem;
+		display: block;
+		width: 1rem;
+		height: 1rem;
+  	}
+.login form input[type="password"], .login form input[type="text"] {
+  	width: 310px;
+  	height: 50px;
+  	border: 1px solid #dee0e4;
+  	margin-bottom: 20px;
+  	padding: 0 15px;
+  	border-radius: 6px;
+}
+.login form input[type="submit"] {
+    width: 150px;
+  	padding: 15px;
+  	background-color: #388bb1;
+  	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+  	color: #ffffff;
+  	transition: 0.2s;
+  	    border-radius: 6px;
+          -webkit-appearance: none;
+-webkit-border-radius: 6;
+}
+.login form input[type="submit"]:hover {
+	background-color: #2e6d8b;
+	    border-radius: 8px;
+  	transition: 0.2s;
+}
+
+.register form input[type="password"], .register form input[type="text"], .register form input[type="email"] {
+  	width: 310px;
+  	height: 50px;
+  	border: 1px solid #dee0e4;
+  	margin-bottom: 20px;
+  	padding: 0 15px;
+  	border-radius: 6px;
+}
+.register form input[type="submit"] {
+  	    width: 150px;
+  	padding: 15px;
+  	background-color: #388bb1;
+  	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+  	color: #ffffff;
+  	transition: 0.2s;
+  	    border-radius: 6px;
+          -webkit-appearance: none;
+-webkit-border-radius: 6;
+}
+.register form input[type="submit"]:hover {
+	background-color: #2e6d8b;
+	    border-radius: 8px;
+  	transition: 0.2s;
+}
