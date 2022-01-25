@@ -9,7 +9,7 @@ This repository contains the source code for the chess.gq website. Since the mai
 **Server:** HTML, CSS, JS (NODE.JS)
 
 
-### Features
+## Features
 
 - Accounts where you can set custom profile pictures and descriptions.
 
@@ -20,7 +20,7 @@ This repository contains the source code for the chess.gq website. Since the mai
 - Game analysis for logged-in users.
 
 
-### Screenshots
+## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
@@ -40,5 +40,4 @@ This repository contains the source code for the chess.gq website. Since the mai
 
 
 ##
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/das150/chess.gq/blob/main/LICENSE)
