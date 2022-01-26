@@ -10,7 +10,7 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 
 **Client:** HTML, CSS, JS, PHP
 
-**Server:** HTML, CSS, JS (NODE.JS)
+**Server:** NODE.JS
 
 ⠀
 
