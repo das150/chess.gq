@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    
+    <!-- Webpage Title -->
+    <title>Spectate Match</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/chessicon.png">
+    
+    <!-- External Styles and Scripts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.2/chess.js"></script>
+    <script src="./chessboard/js/chessboard-0.3.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./chessboard/css/chessboard-0.3.0.min.css">
+
+  <style>
+    body{
+      margin: 0;
+      color: #777;
+      background-color: #f7fafd;
+	    font: 400 1rem/1.75rem "Open Sans", sans-serif;
+      overflow: hidden;
+    }
+    .deco-white-circle-1 {
+		position: absolute;
+		top: 26rem;
+		left: -12rem;
+		display: block;
+		width: 22rem;
+		height: 22rem;
+	  }
+	  .deco-white-circle-2 {
+		position: absolute;
+		top: 19rem;
+		right: -12rem;
+		display: block;
+		width: 20rem;
+		height: 20rem;
+  	}
+  	.deco-blue-circle {
+		position: absolute;
+		top: 28rem;
+		left: 5rem;
+		display: block;
+		width: 5rem;
+		height: 5rem;
+  	}
+	  .deco-yellow-circle {
+		position: absolute;
+		top: 9rem;
+		right: 7rem;
+		display: block;
+		width: 1.5rem;
+		height: 1.5rem;
+	  }
+	  .deco-green-diamond {
+		position: absolute;
+		top: 9rem;
+		left: 4rem;
+		display: block;
+		width: 1rem;
+		height: 1rem;
+  	}
+	  
+  </style>
+</head>
+
+<body>
+<!--#388bb1-->
+  <div class="deco-white-circle-1"><img src="/img/decorative-white-circle.svg"></div>
+  <div class="deco-white-circle-2"><img src="/img/decorative-white-circle.svg"></div>
+  <div class="deco-blue-circle"><img src="/img/decorative-blue-circle.svg"></div>
+  <div class="deco-yellow-circle"><img src="/img/decorative-yellow-circle.svg"></div>
+  <div class="deco-green-diamond" style="margin-top: 75px !important; margin-left: 135px !important;"><img src="/img/decorative-green-diamond.svg"></div>
+
+  <div class="container" style="position: absolute; left: 50%; top: 48%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%);">
+	    <center><img src="spectate.svg" style="width: 50%; margin-bottom: 50px;">
+
+        <h1 style="line-height: 1.5; color: #4a4a4a;"><b>The spectating feature is not yet available. Sorry!</b></h1></center>
+  </div>
+
+</body>
+</html>
