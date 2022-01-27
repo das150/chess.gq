@@ -1,7 +1,7 @@
 
 # Chess.gq
 
-This repository contains the source code for the chess.gq website. Chess.gq is a small site where you can play chess with a friend. Since the main site is hosted on Infinity Free, a static hosting provider that does not support Node.JS, the part of the website where you play the chess game is hosted externally on serveralive.herokuapp.com. The code used on the heroku site can be found under the "Heroku" folder in this repository.
+This repository contains the source code for the chess.gq website. Chess.gq is a small site where you can play chess with a friend. Since the main site is hosted on Infinity Free, a static hosting provider that does not support Node.JS, the part of the website where you play the chess game is hosted externally on serveralive.herokuapp.com. The code used on the heroku site can be found under the "HEROKU" folder in this repository.
 ###
 Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 ###
@@ -45,6 +45,16 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 
 ###
 
+## Heroku
+
+The contents of the "HEROKU" folder are hosted on serveralive.herokuapp.com. To test them locally (on your localhost), clone the folder and type the following in your terminal. NPM and Node.js extentions need to be installed for this to work.
+
+```javascript
+npm install
+node index.js
+```
+
+###
 ⠀
 ## Sources
 
