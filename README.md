@@ -59,7 +59,6 @@ After doing this, you may host a game on your localhost by going to localhost:80
 ###
 
 ⠀
-⠀
 ## Sources
 
  - [https://chess.gq/sources/](https://chess.gq/sources/)
