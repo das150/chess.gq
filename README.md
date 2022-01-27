@@ -44,6 +44,7 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 
 ###
 
+⠀
 ###
 ## phpMyAdmin Setup
 
