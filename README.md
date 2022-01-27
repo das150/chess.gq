@@ -46,7 +46,7 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 ###
 ⠀
 
-## Heroku
+## Heroku Folder
 
 The contents of the "HEROKU" folder are hosted on serveralive.herokuapp.com. To test them locally (on your localhost), clone the folder and type the following in your terminal. NPM and Node.js extentions need to be installed for this to work.
 
