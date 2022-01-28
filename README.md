@@ -49,6 +49,7 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 ## phpMyAdmin Setup
 
 ![phpmyadmin](https://user-images.githubusercontent.com/83658956/151375139-1885cdac-3823-4e6e-883f-0182ad3b1a3e.png)
+Passwords are encrypted using password_hash in PHP. They are not stored as plain text.
 
 
 ###
