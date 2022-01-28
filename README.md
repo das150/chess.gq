@@ -8,9 +8,9 @@ Play match: [https://chess.gq/play/friend/](https://chess.gq/play/friend/)
 --
 ###
 
-**Client:** HTML, CSS, JS, PHP
+**Client:** HTML, CSS, JS
 
-**Server:** NODE.JS
+**Server:** NODE.JS, PHP
 
 ⠀
 
