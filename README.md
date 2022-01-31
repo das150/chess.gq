@@ -74,10 +74,5 @@ After doing this, you may host a game on your localhost by going to localhost:80
 
 ###
 
-⠀
-## Author
-
-- [@das150](https://github.com/das150)
-
 ##
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/das150/chess.gq/blob/main/LICENSE)
