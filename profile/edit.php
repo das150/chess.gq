@@ -92,7 +92,7 @@ $stmt->close();
 
 <script>
 function uploadbutton() {
-const client = filestack.init("AV9YYk8I0SmSGgT6VLcNgz");
+const client = filestack.init("XXXXXXXXXXXXXX");
 const options = {
 	accept: ["image/*"],
 	maxFiles: 1, minFiles: 1,
